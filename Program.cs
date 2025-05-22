@@ -1,3 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, APBD!");
-Console.WriteLine("To jest ćwiczenie 1");
+Console.WriteLine("Hello, APBD! To jest ćwiczenie 1.");
